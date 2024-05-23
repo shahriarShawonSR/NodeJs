@@ -1,0 +1,35 @@
+Road Map of Full Stack
+
+Front-end: 
+01. HTML 
+02. CSS 
+    i. Bootstrap
+    j. Tailwind css
+	 - Preprocessor -> SASS / LESS
+03.JavsScript
+	  React/Vue/Angular
+		- State Management tool -> Redux, vuex
+04. Git(Version Control tool)
+05. Agile Methodolige
+	- Scrum, Kanban
+
+
+Back-end :
+01.NodeJS(ExpressJS)
+
+02. REST API 
+
+03. Authentication : PassportJS
+
+
+Database Management system :
+SQL :
+ - PostgreSQL, MySQL
+NoSQL :
+ - MongoDB
+
+Testing :
+  - Unit Testing -> Jest, Mocha
+  - Integration Testing -> Selenium
+  - End-ti-End Testing -> Playwright
+
